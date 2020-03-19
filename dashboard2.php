@@ -52,7 +52,7 @@ $userInfo = $auth0->getUser();
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">jhjkj
                     <ul class="navbar-nav ml-auto">
                         
                         <li class="nav-item active">
